@@ -1,0 +1,41 @@
+[
+  {
+    "id": "chatgpt-business",
+    "slug": "chatgpt-business",
+    "title": "ChatGPT Business",
+    "brand": "OpenAI",
+    "category": "Dịch vụ AI",
+    "price": 100000,
+    "priceText": "100/slot/tháng",
+    "oldPrice": 120000,
+    "currency": "VND",
+    "rating": 4.9,
+    "reviewsCount": 512,
+    "stock": 999,
+    "options": {
+      "slot": ["10 slot", "25 slot", "50 slot"],
+      "billing": ["Hàng năm"]
+    },
+    "images": ["/images/gear-01.svg", "/images/gear-02.svg"],
+    "thumbnail": "/images/gear-01.svg",
+    "tags": ["AI", "Doanh nghiệp", "Bảo mật"],
+    "features": [
+      "Mọi tính năng trong Plus với giới hạn cao hơn nữa",
+      "Quyền truy cập không giới hạn vào mô hình hàng đầu cho công việc",
+      "Bảo mật nâng cao với SSO, MFA và nhiều tính năng khác",
+      "Tích hợp SharePoint và các công cụ doanh nghiệp",
+      "Công cụ cộng tác cho đội nhóm, GPT tùy chỉnh",
+      "Quy trình thanh toán - quản lý người dùng đơn giản",
+      "Họp hành, ghi chú, tác nhân viết mã và nghiên cứu chuyên sâu",
+      "Video, tạo hình ảnh, dữ liệu và viết mã ngay trong đoạn chat"
+    ],
+    "description": "Giải pháp ChatGPT Business giúp đội nhóm vận hành an toàn, mở rộng tác vụ AI và quản lý người dùng thống nhất.",
+    "specs": {
+      "Triển khai": "Cloud được bảo vệ",
+      "Thanh toán": "100/slot/tháng",
+      "Hỗ trợ": "24/7 doanh nghiệp"
+    },
+    "createdAt": "2025-01-10T10:00:00.000Z",
+    "popularity": 100
+  }
+]

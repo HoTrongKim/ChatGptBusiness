@@ -1,0 +1,6 @@
+﻿node_modules/
+dist/
+.vite-ssg-temp/
+final_output.txt
+.DS_Store
+.env
