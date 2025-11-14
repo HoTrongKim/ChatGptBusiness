@@ -65,7 +65,6 @@ export default defineConfig({
   ssgOptions: {
     formatting: 'prettify',
     script: 'async',
-    dirStyle: 'nested',
     includedRoutes: () => [...baseRoutes, ...productRoutes]
   }
 })
